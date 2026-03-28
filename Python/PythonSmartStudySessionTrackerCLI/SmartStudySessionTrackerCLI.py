@@ -1,5 +1,5 @@
 #~ Project: Smart Study Session Tracker (CLI App)
-## May make a web-app for soon.
+## May make a web-app soon.
 
 # CLI app that tracks study sessions, stores them in JSON, and provides simple time statistics.
 
