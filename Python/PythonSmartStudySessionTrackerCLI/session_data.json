@@ -1,0 +1,30 @@
+[
+    {
+        "session": "Biology",
+        "duration": 3.9222702980041504
+    },
+    {
+        "session": "French",
+        "duration": 1.8131358623504639
+    },
+    {
+        "session": "Maths",
+        "duration": 5.793223857879639
+    },
+    {
+        "session": "Spanish",
+        "duration": 1.5526974201202393
+    },
+    {
+        "session": "PE",
+        "duration": 8.640785217285156
+    },
+    {
+        "session": "RS",
+        "duration": 4.833406925201416
+    },
+    {
+        "session": "History",
+        "duration": 1.0414502620697021
+    }
+]
