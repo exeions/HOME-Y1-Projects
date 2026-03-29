@@ -86,4 +86,4 @@ def view_stats():
         return render_template("view_stats.html", sessions=formatted_sessions, total_duration=formatted_total_duration)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8000)
+    serve(app, host="0.0.0.0", port=8000)
